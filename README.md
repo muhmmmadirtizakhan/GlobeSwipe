@@ -41,4 +41,4 @@ where smooth animations ✨ and high-quality visuals 🖼️ are the main focus.
 ---
 
 ## 🔗 Project Link
-[ Live Demo]()
+[ Live Demo](https://muhmmmadirtizakhan.github.io/GlobeSwipe/)
